@@ -1,21 +1,20 @@
 font-face {
     font-family: iA Writer Duospace;
     font-style: normal;
-    src: url(https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duospace/OTF%20(Mac)/iAWriterDuospace-Regular.otf) format("otf"),;
-    font-weight:normal;
+    src: url('https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duospace/OTF%20(Mac)/iAWriterDuospace-Regular.otf?raw=true') format('opentype');
+    font-weight:200;
 }
 
 font-face {
     font-family: iA Writer Duospace;   
     font-style: italic;
-    src: url(https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duospace/OTF%20(Mac)/iAWriterDuospace-Italic.otf format("otf"),;
-    font-weight:normal;
+    src: url('https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duospace/OTF%20(Mac)/iAWriterDuospace-Italic.otf?raw=true') format('opentype');
+    font-weight:200;
 }
 
 font-face {
     font-family: iA Writer Duospace;
     font-style: bold;
-    src: url(https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duospace/OTF%20(Mac)/iAWriterDuospace-Bold.otf format("otf"),; 
-    font-weight:normal;
+    src: url('https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duospace/OTF%20(Mac)/iAWriterDuospace-Bold.otf?raw=true') format('opentype'); 
+    font-weight:800;
 }
-
