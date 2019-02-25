@@ -21,7 +21,7 @@
 
 @font-face {
     font-family: Space Mono for Powerline;
-    font-style: bold italic;
+    font-style: italic;
     src: url('https://github.com/powerline/fonts/blob/master/SpaceMono/SpaceMono-BoldItalic.ttf?raw=true') format('truetype'); 
     font-weight:800;
 }
