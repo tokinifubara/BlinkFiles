@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Space Mono for Powerline;
+    font-style: normal;
+    src: url('https://github.com/powerline/fonts/blob/master/SpaceMono/SpaceMono-Regular.ttf?raw=true') format('truetype');
+    font-weight:200;
+}
+
+@font-face {
+    font-family: Space Mono for Powerline;   
+    font-style: italic;
+    src: url('https://github.com/powerline/fonts/blob/master/SpaceMono/SpaceMono-Italic.ttf') format('truetype');
+    font-weight:200;
+}
+
+@font-face {
+    font-family: Space Mono for Powerline;
+    font-style: bold;
+    src: url('https://github.com/powerline/fonts/blob/master/SpaceMono/SpaceMono-Bold.ttf?raw=true') format('truetype'); 
+    font-weight:800;
+}
+
+@font-face {
+    font-family: Space Mono for Powerline;
+    font-style: bold italic;
+    src: url('https://github.com/powerline/fonts/blob/master/SpaceMono/SpaceMono-BoldItalic.ttf?raw=true') format('truetype'); 
+    font-weight:800;
+}
