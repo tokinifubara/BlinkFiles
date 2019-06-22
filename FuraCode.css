@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Fura Code";
+    font-style: normal;
+    src: url('https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraCode/Retina/complete/Fura%20Code%20Retina%20Nerd%20Font%20Complete.otf?raw=true') format('opentype');
+    font-weight:200;
+}
+
+@font-face {
+    font-family: "Fura Code";
+    font-style: normal;
+    src: url('https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraCode/Medium/complete/Fura%20Code%20Medium%20Nerd%20Font%20Complete.otf?raw=true');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Fura Code";
+    font-style: bold;
+    src: url('https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraCode/Bold/complete/Fura%20Code%20Bold%20Nerd%20Font%20Complete.otf?raw=true') format('opentype'); 
+    font-weight:800;
+}
