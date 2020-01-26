@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Iosevka Nerd";
+    font-style: normal; /* Light */
+    src: url('https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Iosevka/Light/complete/Iosevka%20Light%20Nerd%20Font%20Complete.ttf?raw=true') format('truetype');
+    font-weight:200;
+}
+
+@font-face {
+    font-family: "Iosevka Nerd";
+    font-style: normal;
+    src: url('https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Iosevka/Regular/complete/Iosevka%20Nerd%20Font%20Complete.ttf?raw=true') format('truetype');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Iosevka Nerd";
+    font-style: bold;
+    src: url('https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Iosevka/Bold/complete/Iosevka%20Bold%20Nerd%20Font%20Complete.ttf?raw=true') format('truetype'); 
+    font-weight:800;
+}
